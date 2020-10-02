@@ -1,4 +1,4 @@
-## Do not span other repos if you are not doing any use full contribution
+# Do not span other repos if you are not doing any use full contribution
 
 
 ## Hacktoberfest 2020

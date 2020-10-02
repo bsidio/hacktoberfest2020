@@ -1,7 +1,4 @@
-## Do not span other repos if you are not doing any use full contribution
-
-
-## Hacktoberfest 2020
+## Hacktoberfest 2018
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>.<br>
  
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.<br>
@@ -12,7 +9,9 @@
 
  Hacktober fest is a month celebration held from Oct 1- Oct 31 By <a target="_blank" href="https://hacktoberfest.digitalocean.com/">Digital Ocean</a> and <a href="https://github.com/">Github</a> to get people involved in <strong>open-source</strong>.
 
-
+<h2>Rules</h2>
+ To get a T-shirt, you must make five pull requests between October 1–31 in any timezone. Pull requests can be to any public repo on GitHub, not just the ones we’ve highlighted. The pull request must contain commits you made yourself.
+ <br><br>You can check your progress of HacktoberFest at <a target="_blank" href="https://hacktoberfest.digitalocean.com/stats/">this link</a>.
 
 <h2> List of Programs to work on </h2>
 <ul>
